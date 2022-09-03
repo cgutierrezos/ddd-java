@@ -1,0 +1,36 @@
+# Created at 2022-09-03T18:44:58.638
+sep. 03, 2022 6:44:58 P. M. org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2022-09-03T18:44:58.639
+WARNING: Possible configuration error: method [public void repository.RepositoryTest.create()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor, org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2022-09-03T18:44:58.640
+sep. 03, 2022 6:44:58 P. M. org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2022-09-03T18:44:58.640
+WARNING: Possible configuration error: method [public void repository.RepositoryTest.remove()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor, org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2022-09-03T18:44:58.642
+sep. 03, 2022 6:44:58 P. M. org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2022-09-03T18:44:58.642
+WARNING: Possible configuration error: method [public void repository.RepositoryTest.update()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2022-09-03T18:44:58.667
+sep. 03, 2022 6:44:58 P. M. org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2022-09-03T18:44:58.668
+WARNING: Possible configuration error: method [public void repository.RepositoryTest.create()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2022-09-03T18:44:58.669
+sep. 03, 2022 6:44:58 P. M. org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2022-09-03T18:44:58.669
+WARNING: Possible configuration error: method [public void repository.RepositoryTest.remove()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2022-09-03T18:44:58.671
+sep. 03, 2022 6:44:58 P. M. org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2022-09-03T18:44:58.672
+WARNING: Possible configuration error: method [public void repository.RepositoryTest.update()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor, org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+

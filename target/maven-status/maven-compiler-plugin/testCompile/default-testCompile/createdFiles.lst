@@ -1,0 +1,8 @@
+aggregate\aggregateVO\TestAggregateIDVO.class
+aggregate\TestAggregate.class
+aggregate\aggregateVO\TestAggregateBaaVO.class
+aggregate\aggregateVO\TestAggregateFooVO.class
+aggregate\TestAggregateCollection.class
+policy\TestPolicy.class
+repository\TestRepository.class
+aggregate\TestAggregateBuilder.class

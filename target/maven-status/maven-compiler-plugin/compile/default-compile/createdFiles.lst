@@ -1,0 +1,11 @@
+com\cg\ddd\repository\domain\Repository.class
+com\cg\ddd\aggregate\domain\aggregateCollection\AggregateFilter$FilterCallback.class
+com\cg\ddd\aggregate\domain\aggregateCollection\AggregateFilter.class
+com\cg\ddd\aggregate\domain\aggregateCollection\AggregateIterator.class
+com\cg\ddd\policy\domain\Policy.class
+com\cg\ddd\aggregate\domain\aggregateVO\AggregateIDVO.class
+com\cg\ddd\aggregate\domain\aggregateVO\AggregateTimeStampVO.class
+com\cg\ddd\aggregate\domain\aggregateCollection\AggregateIterator$EachCallback.class
+com\cg\ddd\repository\infra\FakeRepository.class
+com\cg\ddd\aggregate\domain\aggregateCollection\AggregateCollection.class
+com\cg\ddd\aggregate\domain\Aggregate.class

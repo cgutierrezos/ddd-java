@@ -1,0 +1,11 @@
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\exception\infra\NotFoundException.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\policy\domain\Policy.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\aggregate\domain\Aggregate.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\aggregate\domain\aggregateCollection\AggregateIterator.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\aggregate\domain\aggregateVO\AggregateTimeStampVO.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\repository\infra\FakeRepository.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\aggregate\domain\aggregateCollection\AggregateFilter.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\aggregate\domain\aggregateCollection\AggregateCollection.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\aggregate\domain\aggregateVO\AggregateIDVO.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\exception\domain\DomainException.java
+C:\Users\cristian b\Documents\NetBeansProjects\ddd\src\main\java\com\cg\ddd\repository\domain\Repository.java
